@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/texutile.github.io/static/css/main.f79beeb0.css",
-    "main.js": "/texutile.github.io/static/js/main.0a17ce30.js",
+    "main.css": "/texutile.github.io/static/css/main.6c9158d7.css",
+    "main.js": "/texutile.github.io/static/js/main.f69a7f72.js",
     "index.html": "/texutile.github.io/index.html",
-    "main.f79beeb0.css.map": "/texutile.github.io/static/css/main.f79beeb0.css.map",
-    "main.0a17ce30.js.map": "/texutile.github.io/static/js/main.0a17ce30.js.map"
+    "main.6c9158d7.css.map": "/texutile.github.io/static/css/main.6c9158d7.css.map",
+    "main.f69a7f72.js.map": "/texutile.github.io/static/js/main.f69a7f72.js.map"
   },
   "entrypoints": [
-    "static/css/main.f79beeb0.css",
-    "static/js/main.0a17ce30.js"
+    "static/css/main.6c9158d7.css",
+    "static/js/main.f69a7f72.js"
   ]
 }
